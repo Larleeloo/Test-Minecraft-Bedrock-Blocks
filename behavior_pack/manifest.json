@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Glow Block Addon - Behavior Pack",
+    "name": "Glow Block BP",
+    "uuid": "ab863489-210e-4b8d-b776-6344a2e97da2",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 14]
+  },
+  "modules": [
+    {
+      "description": "Behavior data for the glow block.",
+      "type": "data",
+      "uuid": "5cc04b43-eb34-4d55-be35-4ec9a3165bf7",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "bd153aaa-dec4-4782-b530-1570f78e3870",
+      "version": [1, 0, 0]
+    }
+  ]
+}
