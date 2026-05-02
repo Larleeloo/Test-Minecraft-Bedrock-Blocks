@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Glow Block Addon - Resource Pack",
+    "name": "Glow Block RP",
+    "uuid": "bd153aaa-dec4-4782-b530-1570f78e3870",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 14]
+  },
+  "modules": [
+    {
+      "description": "Resources for the glow block.",
+      "type": "resources",
+      "uuid": "3365feef-fa38-48b1-8ab6-607847b27f1c",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "ab863489-210e-4b8d-b776-6344a2e97da2",
+      "version": [1, 0, 0]
+    }
+  ]
+}
